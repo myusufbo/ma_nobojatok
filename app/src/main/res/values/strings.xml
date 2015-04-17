@@ -6,5 +6,6 @@
     <string name="babyName">Name Of the Baby</string>
     <string name="date">DD/MM/YYYY</string>
     <string name="submit">Submit</string>
+    <string name="title_activity_menu">Menu</string>
 
 </resources>
